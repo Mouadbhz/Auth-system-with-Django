@@ -1,0 +1,11 @@
+Backend install :
+python install django restframework restframeworkjwt ... 
+
+FrontEnd install : 
+npm install --save axios react-router-dom redux react-redux redux-dev-devtools-extension redux-thunk (done you can use --force)
+
+don't forget to change the name of the project in django (ask chatgpt)
+
+in the error of do not register is just the password is too common or it is similar to the email so always 
+put a different password
+
